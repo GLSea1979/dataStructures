@@ -13,4 +13,7 @@ const agentList = [
    Write a function that looks over an agent list similar to above and returns a true/false for whether the agents time period ever overlaps.
 */
 
-const startFunction = ( ) => {}
+const startFunction = ( agentList) => {
+
+    
+}
