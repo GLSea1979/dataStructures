@@ -35,3 +35,4 @@ function merge(left, right) {
 
 console.log(mergeSort(myArr), 'sorted array');
 console.log(mergeSort(smallArr), 'sorted small arr');
+console.log(mergeSort(myArr))
